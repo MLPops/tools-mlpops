@@ -2,7 +2,6 @@ import "./Card.css";
 
 export default function Card(props) {
   const {href, title, body, tag} = props;
-  tag.map((title) => {console.log(title);})
   
   return <li className="link-card">
     <a target="_blank" href={href}>
