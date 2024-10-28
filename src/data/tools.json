@@ -5,6 +5,15 @@
             "category": "inference",
             "content": [
                 {
+                    "title": "RunPod",
+                    "body": "Powerful & cost-effective GPUs built to support any workload",
+                    "tag": [
+                        "Paid",
+                        "Service"
+                    ],
+                    "url": "https://www.runpod.io"
+                },
+                {
                     "title": "vLLM",
                     "body": "Фреймворк для развертывания LLM моделей с оптимизацией",
                     "tag": [
@@ -234,6 +243,15 @@
                         "A100"
                     ],
                     "url": "https://selectel.ru/services/gpu/"
+                },{
+                    "title": "RunPod",
+                    "body": "Powerful & cost-effective GPUs built to support any workload",
+                    "tag": [
+                        "H100",
+                        "4090",
+                        "A100"
+                    ],
+                    "url": "https://www.runpod.io"
                 }
             ]
         },
@@ -337,6 +355,30 @@
             "title": "Train",
             "category": "train",
             "content": []
+        },
+        {
+            "title": "Pay per request",
+            "category": "pay-per-request",
+            "content": [
+                {
+                    "title": "OpenRouter",
+                    "body": "A unified interface for LLMs",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://openrouter.ai"
+                },
+                {
+                    "title": "Replicate",
+                    "body": "Run and fine-tune open-source models",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://replicate.com/home"
+                }
+            ]
         }
     ]
 }
