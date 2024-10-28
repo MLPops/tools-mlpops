@@ -5,6 +5,78 @@
             "category": "inference",
             "content": [
                 {
+                    "title": "Titan Takeoff",
+                    "body": "Titan Takeoff is a state-of-the-art inference server designed for self-hosting",
+                    "tag": [
+                        "Service", "Open Source"
+                    ],
+                    "url": "https://docs.titanml.co/docs/intro/"
+                },
+                {
+                    "title": "Anyscale",
+                    "body": "Fully utilize every GPU with RayTurbo / Govern sprawling AI usage",
+                    "tag": [
+                        "Service", "Paid"
+                    ],
+                    "url": "https://www.anyscale.com"
+                },
+                {
+                    "title": "Inference Endpoints",
+                    "body": "Easily deploy Transformers, Diffusers or any model on dedicated, fully managed infrastructure",
+                    "tag": [
+                        "Service", "Paid"
+                    ],
+                    "url": "https://ui.endpoints.huggingface.co"
+                },
+                {
+                    "title": "LightLLM",
+                    "body": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework",
+                    "tag": [
+                        "Open Source", "LLM"
+                    ],
+                    "url": "https://github.com/ModelTC/lightllm"
+                },
+                {
+                    "title": "MLC LLM",
+                    "body": "Universal LLM Deployment Engine with ML Compilation",
+                    "tag": [
+                        "Open Source", "LLM"
+                    ],
+                    "url": "https://github.com/mlc-ai/mlc-llm"
+                },
+                {
+                    "title": "CTranslate2",
+                    "body": "Fast inference engine for Transformer models",
+                    "tag": [
+                        "Open Source", "LLM"
+                    ],
+                    "url": "https://github.com/OpenNMT/CTranslate2"
+                },
+                {
+                    "title": "DeepSpeed-MII",
+                    "body": "MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.",
+                    "tag": [
+                        "Open Source", "LLM"
+                    ],
+                    "url": "https://github.com/microsoft/DeepSpeed-MII"
+                },
+                {
+                    "title": "OpenLLM",
+                    "body": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
+                    "tag": [
+                        "Open Source", "LLM"
+                    ],
+                    "url": "https://github.com/InternLM/lmdeploy"
+                },
+                {
+                    "title": "OpenLLM",
+                    "body": "🦾 OpenLLM: Self-Hosting LLMs Made Easy",
+                    "tag": [
+                        "Open Source", "LLM"
+                    ],
+                    "url": "https://github.com/bentoml/OpenLLM"
+                },
+                {
                     "title": "RunPod",
                     "body": "Powerful & cost-effective GPUs built to support any workload",
                     "tag": [
@@ -18,7 +90,7 @@
                     "body": "Фреймворк для развертывания LLM моделей с оптимизацией",
                     "tag": [
                         "Open Source",
-                        "Optimization"
+                        "LLM"
                     ],
                     "url": "https://github.com/vllm-project/vllm"
                 },
@@ -113,7 +185,7 @@
                     "body": "Inference of Meta's LLaMA model (and others) in pure C/C++",
                     "tag": [
                         "Open Source",
-                        "Framework"
+                        "LLM"
                     ],
                     "url": "https://github.com/ggerganov/llama.cpp"
                 },
@@ -122,7 +194,7 @@
                     "body": "A TensorRT Toolbox for Optimized Large Language Model Inference",
                     "tag": [
                         "Open Source",
-                        "Optimization"
+                        "LLM"
                     ],
                     "url": "https://github.com/NVIDIA/TensorRT-LLM"
                 },
@@ -330,7 +402,23 @@
         {
             "title": "Drift/Adverserial Monitoring",
             "category": "datadrift",
-            "content": []
+            "content": [
+                {
+                    "title": "Fiddler",
+                    "body": "One Platform for LLM and ML Observability",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.fiddler.ai"
+                },{
+                    "title": "Evidently",
+                    "body": "Evidently is ​​an open-source ML and LLM observability framework",
+                    "tag": [
+                          "Open Source", "Paid"
+                    ],
+                    "url": "https://github.com/evidentlyai/evidently"
+                }
+            ]
         },
         {
             "title": "Model Registry",
