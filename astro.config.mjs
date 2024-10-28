@@ -4,7 +4,7 @@ import netlify from "@astrojs/netlify";
 
 export default defineConfig({
   integrations: [react()],
-
+  outDir: './build',
   output: "server",
   adapter: netlify()
 });
