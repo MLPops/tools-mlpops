@@ -1,4 +1,6 @@
-# Directory
-![Directory Preview](https://new-ui.com/assets/images/templates/preview-directory.png)
+# MLOps инструменты
 
-An Astro directory template. [Getting started guide](https://new-ui.com/docs/templates/directory) (^０^)ノ
+![Directory Preview](./readme_img.png)
+
+
+Это большая библиотека сервисов связанных с ML и MLOps. Вы можете пополнить библиотеку через Pull Request или [через форму](https://forms.gle/hYCcTYSCKKNAxHtY7)

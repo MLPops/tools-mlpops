@@ -2,9 +2,10 @@ import "./Card.css";
 
 export default function Card(props) {
   const {href, title, body, tag} = props;
-
+  tag.map((title) => {console.log(title);})
+  
   return <li className="link-card">
-    <a href={href}>
+    <a target="_blank" href={href}>
       <strong className="nu-c-h6 nu-u-mt-1 nu-u-mb-1">
         {title}
       </strong>
@@ -12,7 +13,9 @@ export default function Card(props) {
         {body}
       </p>
       <p className="distribution">
-        <span className="tag">{tag}</span>
+        {
+          tag.map((title) => { return <span className="tag">{title}</span>})
+        }
       </p>
     </a>
   </li>
