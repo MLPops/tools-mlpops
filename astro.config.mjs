@@ -3,8 +3,7 @@ import react from "@astrojs/react";
 import netlify from "@astrojs/netlify";
 
 export default defineConfig({
-  integrations: [react()],
+  site: 'https://tools.mlpops.ru/',
   outDir: './build',
-  output: "server",
-  adapter: netlify()
+  integrations: [react()],
 });
