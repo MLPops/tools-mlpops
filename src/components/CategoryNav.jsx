@@ -5,7 +5,7 @@ import CategoryNavItem from "./CategoryNavItem";
 
 export default function CategoryNav({ filter, setFilter }) {
   const navItems = [
-    {title: "All Tools", category: "all"}, 
+    {title: "🛠️ All Tools", category: "all"}, 
     ...data.tools
   ];
 

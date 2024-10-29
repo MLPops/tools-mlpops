@@ -1,7 +1,7 @@
 {
     "tools": [
         {
-            "title": "Inference",
+            "title": "🚀 Inference",
             "category": "inference",
             "content": [
                 {
@@ -219,7 +219,7 @@
             ]
         },
         {
-            "title": "Platform",
+            "title": "🌐 Platform",
             "category": "platform",
             "content": [
                 {
@@ -274,7 +274,7 @@
             ]
         },
         {
-            "title": "GPU",
+            "title": "🖥️ GPU",
             "category": "gpu",
             "content": [
                 {
@@ -328,7 +328,7 @@
             ]
         },
         {
-            "title": "Data Storage",
+            "title": "📊 Data Storage",
             "category": "datastorage",
             "content": [
                 {
@@ -352,7 +352,7 @@
             ]
         },
         {
-            "title": "Train Monitoring",
+            "title": "📈 Train Monitoring",
             "category": "train-monitoring",
             "content": [
                 {
@@ -400,7 +400,7 @@
             ]
         },
         {
-            "title": "Drift/Adverserial Monitoring",
+            "title": "📉 Drift/Adverserial Monitoring",
             "category": "datadrift",
             "content": [
                 {
@@ -421,7 +421,7 @@
             ]
         },
         {
-            "title": "Model Registry",
+            "title": "🗄️ Model Registry",
             "category": "modelregistry",
             "content": [
                 {
@@ -435,17 +435,17 @@
             ]
         },
         {
-            "title": "Orchestrator",
+            "title": "🪄 Orchestrator",
             "category": "orchestrator",
             "content": []
         },
         {
-            "title": "Train",
+            "title": "🚂 Train",
             "category": "train",
             "content": []
         },
         {
-            "title": "Pay per request",
+            "title": "💸 Pay per request",
             "category": "pay-per-request",
             "content": [
                 {
