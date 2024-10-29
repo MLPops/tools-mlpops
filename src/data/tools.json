@@ -8,7 +8,8 @@
                     "title": "Titan Takeoff",
                     "body": "Titan Takeoff is a state-of-the-art inference server designed for self-hosting",
                     "tag": [
-                        "Service", "Open Source"
+                        "Service",
+                        "Open Source"
                     ],
                     "url": "https://docs.titanml.co/docs/intro/"
                 },
@@ -16,7 +17,8 @@
                     "title": "Anyscale",
                     "body": "Fully utilize every GPU with RayTurbo / Govern sprawling AI usage",
                     "tag": [
-                        "Service", "Paid"
+                        "Service",
+                        "Paid"
                     ],
                     "url": "https://www.anyscale.com"
                 },
@@ -24,7 +26,8 @@
                     "title": "Inference Endpoints",
                     "body": "Easily deploy Transformers, Diffusers or any model on dedicated, fully managed infrastructure",
                     "tag": [
-                        "Service", "Paid"
+                        "Service",
+                        "Paid"
                     ],
                     "url": "https://ui.endpoints.huggingface.co"
                 },
@@ -32,7 +35,8 @@
                     "title": "LightLLM",
                     "body": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework",
                     "tag": [
-                        "Open Source", "LLM"
+                        "Open Source",
+                        "LLM"
                     ],
                     "url": "https://github.com/ModelTC/lightllm"
                 },
@@ -40,7 +44,8 @@
                     "title": "MLC LLM",
                     "body": "Universal LLM Deployment Engine with ML Compilation",
                     "tag": [
-                        "Open Source", "LLM"
+                        "Open Source",
+                        "LLM"
                     ],
                     "url": "https://github.com/mlc-ai/mlc-llm"
                 },
@@ -48,7 +53,8 @@
                     "title": "CTranslate2",
                     "body": "Fast inference engine for Transformer models",
                     "tag": [
-                        "Open Source", "LLM"
+                        "Open Source",
+                        "LLM"
                     ],
                     "url": "https://github.com/OpenNMT/CTranslate2"
                 },
@@ -56,7 +62,8 @@
                     "title": "DeepSpeed-MII",
                     "body": "MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.",
                     "tag": [
-                        "Open Source", "LLM"
+                        "Open Source",
+                        "LLM"
                     ],
                     "url": "https://github.com/microsoft/DeepSpeed-MII"
                 },
@@ -64,7 +71,8 @@
                     "title": "OpenLLM",
                     "body": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
                     "tag": [
-                        "Open Source", "LLM"
+                        "Open Source",
+                        "LLM"
                     ],
                     "url": "https://github.com/InternLM/lmdeploy"
                 },
@@ -72,7 +80,8 @@
                     "title": "OpenLLM",
                     "body": "🦾 OpenLLM: Self-Hosting LLMs Made Easy",
                     "tag": [
-                        "Open Source", "LLM"
+                        "Open Source",
+                        "LLM"
                     ],
                     "url": "https://github.com/bentoml/OpenLLM"
                 },
@@ -270,6 +279,38 @@
                         "Open Source"
                     ],
                     "url": "https://github.com/Netflix/metaflow"
+                },
+                {
+                    "title": "Google Cloud AI Platform",
+                    "body": "A suite of machine learning tools and services provided by Google Cloud.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://cloud.google.com/ai-platform"
+                },
+                {
+                    "title": "AWS SageMaker",
+                    "body": "A fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://aws.amazon.com/sagemaker/"
+                },
+                {
+                    "title": "Azure Machine Learning",
+                    "body": "A cloud-based environment to develop, train, test, deploy, manage, and track machine learning models.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://azure.microsoft.com/en-us/services/machine-learning/"
+                },
+                {
+                    "title": "Inferless",
+                    "body": "MLOps platform for deploying and scaling AI models",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://inferless.com/"
                 }
             ]
         },
@@ -315,7 +356,8 @@
                         "A100"
                     ],
                     "url": "https://selectel.ru/services/gpu/"
-                },{
+                },
+                {
                     "title": "RunPod",
                     "body": "Powerful & cost-effective GPUs built to support any workload",
                     "tag": [
@@ -324,6 +366,14 @@
                         "A100"
                     ],
                     "url": "https://www.runpod.io"
+                },
+                {
+                    "title": "Banana",
+                    "body": "Serverless GPU infrastructure for AI model deployment",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.banana.dev/"
                 }
             ]
         },
@@ -348,12 +398,256 @@
                         "Open Source"
                     ],
                     "url": "https://github.com/pachyderm/pachyderm"
+                },
+                {
+                    "title": "DVC",
+                    "body": "Open source version control system for machine learning projects",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://dvc.org"
+                },
+                {
+                    "title": "LakeFS",
+                    "body": "Git-like version control for data lakes",
+                    "tag": [
+                        "Open Source",
+                        "Data Management"
+                    ],
+                    "url": "https://lakefs.io"
+                },
+                {
+                    "title": "Git LFS",
+                    "body": "Git extension for versioning large files",
+                    "tag": [
+                        "Open Source",
+                        "Version Control"
+                    ],
+                    "url": "https://git-lfs.github.com"
+                },
+                {
+                    "title": "DataHub",
+                    "body": "Metadata platform for the modern data stack",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://datahubproject.io/"
+                },
+                {
+                    "title": "Quilt",
+                    "body": "Version control for data science with package management",
+                    "tag": [
+                        "Open Source",
+                        "Paid"
+                    ],
+                    "url": "https://github.com/quiltdata/quilt"
+                },
+                {
+                    "title": "Databricks",
+                    "body": "Unified analytics platform with versioning and collaboration features",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://databricks.com/"
+                },
+                {
+                    "title": "Dolt",
+                    "body": "SQL database that you can fork, clone, branch, merge, push and pull",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/dolthub/dolt"
+                },
+                {
+                    "title": "Delta Lake",
+                    "body": "Open-source storage layer that brings reliability to data lakes",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://delta.io/"
                 }
             ]
         },
         {
-            "title": "📈 Train Monitoring",
-            "category": "train-monitoring",
+            "title": "🏷️ Data Labeling",
+            "category": "datalabeling",
+            "content": [
+                {
+                    "title": "Label Studio",
+                    "body": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+                    "tag": [
+                        "Open Source",
+                        "Service"
+                    ],
+                    "url": "https://github.com/HumanSignal/label-studio"
+                },
+                {
+                    "title": "CVAT",
+                    "body": "Powerful and efficient Computer Vision Annotation Tool for image and video annotation",
+                    "tag": [
+                        "Open Source",
+                        "Service"
+                    ],
+                    "url": "https://github.com/opencv/cvat"
+                },
+                {
+                    "title": "Scale AI",
+                    "body": "Enterprise platform for data annotation and labeling with API access",
+                    "tag": [
+                        "Paid Service"
+                    ],
+                    "url": "https://scale.com/"
+                },
+                {
+                    "title": "Appen",
+                    "body": "Enterprise data annotation platform with crowd workforce",
+                    "tag": [
+                        "Paid Service"
+                    ],
+                    "url": "https://appen.com/"
+                },
+                {
+                    "title": "Labelbox",
+                    "body": "Training data platform for computer vision, text, and more",
+                    "tag": [
+                        "Paid Service"
+                    ],
+                    "url": "https://labelbox.com/"
+                },
+                {
+                    "title": "Supervisely",
+                    "body": "Platform for computer vision development from data labeling to model deployment",
+                    "tag": [
+                        "Freemium",
+                        "Service"
+                    ],
+                    "url": "https://supervise.ly/"
+                },
+                {
+                    "title": "VGG Image Annotator (VIA)",
+                    "body": "Simple and standalone manual annotation software for image, audio and video",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://www.robots.ox.ac.uk/~vgg/software/via/"
+                },
+                {
+                    "title": "Prodigy",
+                    "body": "Annotation tool from Explosion AI with active learning capabilities",
+                    "tag": [
+                        "Paid Service"
+                    ],
+                    "url": "https://prodi.gy/"
+                },
+                {
+                    "title": "LabelImg",
+                    "body": "Graphical image annotation tool for object detection",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/tzutalin/labelImg"
+                },
+                {
+                    "title": "Make Sense",
+                    "body": "Free-to-use web platform for image annotation",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/SkalskiP/make-sense"
+                },
+                {
+                    "title": "Diffgram",
+                    "body": "Training data platform with version control and workflow automation",
+                    "tag": [
+                        "Open Source",
+                        "Service"
+                    ],
+                    "url": "https://diffgram.com/"
+                },
+                {
+                    "title": "Amazon SageMaker Ground Truth",
+                    "body": "Built-in data labeling workflows with AWS integration",
+                    "tag": [
+                        "Paid Service"
+                    ],
+                    "url": "https://aws.amazon.com/sagemaker/groundtruth/"
+                },
+                {
+                    "title": "Google Cloud Data Labeling Service",
+                    "body": "Data labeling service integrated with Google Cloud",
+                    "tag": [
+                        "Paid Service"
+                    ],
+                    "url": "https://cloud.google.com/ai-platform/data-labeling/docs"
+                },
+                {
+                    "title": "Doccano",
+                    "body": "Doccano is an open-source annotation tool for text data, supporting various formats like text classification, sequence labeling, and more.",
+                    "tag": [
+                        "Open Source",
+                        "Service"
+                    ],
+                    "url": "https://github.com/doccano/doccano"
+                },
+                {
+                    "title": "Snorkel",
+                    "body": "Snorkel is a data programming framework that allows users to create, manage, and label training data through weak supervision.",
+                    "tag": [
+                        "Paid",
+                        "Service"
+                    ],
+                    "url": "https://snorkel.stanford.edu/"
+                },
+                {
+                    "title": "Prodigy",
+                    "body": "Prodigy is an annotation tool for creating training data for machine learning models, focusing on efficiency and ease of use.",
+                    "tag": [
+                        "Paid",
+                        "Service"
+                    ],
+                    "url": "https://prodi.gy/"
+                },
+                {
+                    "title": "Hive Data",
+                    "body": "Hive Data provides data labeling services with a focus on scalability and quality assurance for machine learning projects.",
+                    "tag": [
+                        "Paid",
+                        "Service"
+                    ],
+                    "url": "https://hivedata.com/"
+                },
+                {
+                    "title": "ScaleNLP",
+                    "body": "ScaleNLP offers specialized data annotation services for natural language processing tasks, ensuring high-quality labeled datasets.",
+                    "tag": [
+                        "Paid",
+                        "Service"
+                    ],
+                    "url": "https://scale.com/nlp"
+                },
+                {
+                    "title": "SuperAnnotate",
+                    "body": "SuperAnnotate is a data annotation platform that offers tools for image, video, and text annotation, with a focus on collaboration.",
+                    "tag": [
+                        "Paid",
+                        "Service"
+                    ],
+                    "url": "https://superannotate.com/"
+                },
+                {
+                    "title": "Zegami",
+                    "body": "Zegami combines image data with machine learning, allowing users to annotate and visualize data effectively.",
+                    "tag": [
+                        "Paid",
+                        "Service"
+                    ],
+                    "url": "https://zegami.com/"
+                }
+            ]
+        },
+        {
+            "title": "📈 Experiment Management",
+            "category": "experiment-management",
             "content": [
                 {
                     "title": "Comet",
@@ -396,6 +690,30 @@
                         "Open Source"
                     ],
                     "url": "https://github.com/mlflow/mlflow"
+                },
+                {
+                    "title": "Sacred",
+                    "body": "Sacred is a tool to help you configure, organize, log and reproduce experiments",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/IDSIA/sacred"
+                },
+                {
+                    "title": "Aim",
+                    "body": "Aim is an easy-to-use and performant open-source experiment tracker",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/aimhubio/aim"
+                },
+                {
+                    "title": "Sacred",
+                    "body": "Sacred is a tool to help you configure, organize, log and reproduce experiments",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/IDSIA/sacred"
                 }
             ]
         },
@@ -410,13 +728,56 @@
                         "Paid"
                     ],
                     "url": "https://www.fiddler.ai"
-                },{
+                },
+                {
                     "title": "Evidently",
                     "body": "Evidently is ​​an open-source ML and LLM observability framework",
                     "tag": [
-                          "Open Source", "Paid"
+                        "Open Source",
+                        "Paid"
                     ],
                     "url": "https://github.com/evidentlyai/evidently"
+                },
+                {
+                    "title": "DataRobot",
+                    "body": "DataRobot is a paid automated machine learning platform that provides monitoring and management features.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.datarobot.com/"
+                },
+                {
+                    "title": "WhyLabs",
+                    "body": "AI observability platform for monitoring, detecting, and resolving data and ML issues",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://whylabs.ai/"
+                },
+                {
+                    "title": "Arize AI",
+                    "body": "ML observability platform for monitoring model performance and detecting drift",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://arize.com/"
+                },
+                {
+                    "title": "Deepchecks",
+                    "body": "Open-source library for testing and validating machine learning models and data",
+                    "tag": [
+                        "Open Source",
+                        "Paid"
+                    ],
+                    "url": "https://github.com/deepchecks/deepchecks"
+                },
+                {
+                    "title": "Alibi Detect",
+                    "body": "Open-source Python library focused on outlier, adversarial and drift detection",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/SeldonIO/alibi-detect"
                 }
             ]
         },
@@ -431,18 +792,181 @@
                         "Open Source"
                     ],
                     "url": "https://github.com/mlflow/mlflow"
+                },
+                {
+                    "title": "DVC",
+                    "body": "Open source version control system for machine learning projects",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://dvc.org"
+                },
+                {
+                    "title": "Weights & Biases",
+                    "body": "Collaborative model tracking and experiment management platform",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://wandb.ai"
+                },
+                {
+                    "title": "ModelDB",
+                    "body": "Open source system for managing machine learning models",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/VertaAI/modeldb"
+                },
+                {
+                    "title": "Sagemaker Model Registry",
+                    "body": "AWS service for managing machine learning models, offering a comprehensive MLOps solution",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://aws.amazon.com/sagemaker/"
                 }
             ]
         },
         {
             "title": "🪄 Orchestrator",
             "category": "orchestrator",
-            "content": []
+            "content": [
+                {
+                    "title": "Prefect",
+                    "body": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+                    "tag": [
+                        "Paid",
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/PrefectHQ/prefect"
+                },
+                {
+                    "title": "Apache Airflow",
+                    "body": "Airflow is a platform to programmatically author, schedule, and monitor workflows.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/apache/airflow"
+                },
+                {
+                    "title": "Luigi",
+                    "body": "Luigi is a Python package that helps you build complex pipelines of batch jobs.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/spotify/luigi"
+                },
+                {
+                    "title": "Argo Workflows",
+                    "body": "Argo Workflows is an open source container-native workflow engine for Kubernetes.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/argoproj/argo-workflows"
+                },
+                {
+                    "title": "Dagster",
+                    "body": "Dagster is a data orchestrator for machine learning, analytics, and ETL.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/dagster-io/dagster"
+                },
+                {
+                    "title": "Kubeflow Pipelines",
+                    "body": "Kubeflow Pipelines is a platform for building and deploying portable, scalable machine learning workflows.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/kubeflow/pipelines"
+                },
+                {
+                    "title": "AWS Step Functions",
+                    "body": "Make it easy to coordinate the components of distributed applications and microservices using visual workflows.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://aws.amazon.com/step-functions/"
+                },
+                {
+                    "title": "Apache NiFi",
+                    "body": "Apache NiFi is a software project that provides an easy to use, powerful, and reliable system to process and distribute data.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/apache/nifi"
+                },
+                {
+                    "title": "Conductor",
+                    "body": "Conductor is a microservices orchestration engine developed by Netflix.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/Netflix/conductor"
+                },
+                {
+                    "title": "Azure Data Factory",
+                    "body": "Cloud-based data integration service that orchestrates and automates the movement and transformation of data.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://azure.microsoft.com/en-us/services/data-factory/"
+                }
+            ]
         },
         {
             "title": "🚂 Train",
             "category": "train",
-            "content": []
+            "content": [
+                {
+                    "title": "Volcano",
+                    "body": "A Cloud Native Batch System (Project under CNCF)",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/volcano-sh/volcano"
+                },
+                {
+                    "title": "TensorFlow",
+                    "body": "An open-source library for numerical computation and machine learning.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://www.tensorflow.org"
+                },
+                {
+                    "title": "TensorFlow",
+                    "body": "An open-source library for numerical computation and machine learning.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://www.tensorflow.org"
+                },
+                {
+                    "title": "Google Cloud AI Platform",
+                    "body": "A suite of machine learning tools and services provided by Google Cloud.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://cloud.google.com/ai-platform"
+                },
+                {
+                    "title": "AWS SageMaker",
+                    "body": "A fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://aws.amazon.com/sagemaker/"
+                },
+                {
+                    "title": "Azure Machine Learning",
+                    "body": "A cloud-based environment to develop, train, test, deploy, manage, and track machine learning models.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://azure.microsoft.com/en-us/services/machine-learning/"
+                }
+            ]
         },
         {
             "title": "💸 Pay per request",
@@ -465,6 +989,169 @@
                         "Freemium"
                     ],
                     "url": "https://replicate.com/home"
+                },
+                {
+                    "title": "OpenAI API",
+                    "body": "Access to GPT models and DALL-E for various AI tasks",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://openai.com/api/"
+                },
+                {
+                    "title": "Anthropic Claude",
+                    "body": "Large language model API with advanced reasoning capabilities",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.anthropic.com"
+                },
+                {
+                    "title": "Cohere",
+                    "body": "NLP models for text generation, classification, and more",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://cohere.ai/"
+                },
+                {
+                    "title": "Stability AI",
+                    "body": "Access to Stable Diffusion models for image generation",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://stability.ai/"
+                },
+                {
+                    "title": "AI21 Labs",
+                    "body": "Large language models for various NLP tasks",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.ai21.com/"
+                },
+                {
+                    "title": "Midjourney",
+                    "body": "AI image generation with high artistic quality",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.midjourney.com/"
+                },
+                {
+                    "title": "Leonardo.ai",
+                    "body": "AI image generation platform with custom model training",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://leonardo.ai/"
+                },
+                {
+                    "title": "RunwayML",
+                    "body": "AI tools for creative professionals, including video generation",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://runway.ml/"
+                },
+                {
+                    "title": "Perplexity API",
+                    "body": "Access to various LLMs through unified API",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.perplexity.ai/"
+                },
+                {
+                    "title": "Together AI",
+                    "body": "Platform for running and fine-tuning open-source AI models",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.together.ai/"
+                },
+                {
+                    "title": "Deepinfra",
+                    "body": "Infrastructure for running AI models with pay-per-use pricing",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://deepinfra.com/"
+                },
+                {
+                    "title": "Anyscale",
+                    "body": "Serverless AI inference and fine-tuning platform",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://www.anyscale.com/"
+                },
+                {
+                    "title": "Getimg.ai",
+                    "body": "API for AI image generation and editing",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://getimg.ai/"
+                },
+                {
+                    "title": "Clarifai",
+                    "body": "AI platform for computer vision, NLP, and audio analysis",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://www.clarifai.com/"
+                },
+                {
+                    "title": "Aleph Alpha",
+                    "body": "European AI models for language and multimodal tasks",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://www.aleph-alpha.com/"
+                },
+                {
+                    "title": "Deepgram",
+                    "body": "AI speech recognition and audio intelligence platform",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://deepgram.com/"
+                },
+                {
+                    "title": "AssemblyAI",
+                    "body": "API for speech recognition and audio intelligence",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://www.assemblyai.com/"
+                },
+                {
+                    "title": "Eleven Labs",
+                    "body": "AI voice cloning and text-to-speech API",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://elevenlabs.io/"
+                },
+                {
+                    "title": "Nlpcloud.io",
+                    "body": "NLP API for various language tasks",
+                    "tag": [
+                        "Paid",
+                        "Freemium"
+                    ],
+                    "url": "https://nlpcloud.io/"
                 }
             ]
         }
