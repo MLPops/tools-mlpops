@@ -785,6 +785,31 @@
             "title": "🗄️ Model Registry",
             "category": "modelregistry",
             "content": [
+
+                {
+                    "title": "Kubeflow Model Registry",
+                    "body": "Model registry provides a central repository for model developers to store and manage models",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/kubeflow/model-registry"
+                },
+                {
+                    "title": "GitLab",
+                    "body": "Model registry allows data scientists and developers to manage their machine learning models",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://docs.gitlab.com/ee/user/project/ml/model_registry/"
+                },
+                {
+                    "title": "Mixver",
+                    "body": "Custom versioning of Machine Learning models",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/hectorLop/mixver"
+                },
                 {
                     "title": "MLFlow",
                     "body": "Open source platform for the machine learning lifecycle",
@@ -824,6 +849,71 @@
                         "Paid"
                     ],
                     "url": "https://aws.amazon.com/sagemaker/"
+                },
+                {
+                    "title": "Amazon SageMaker Model Registry",
+                    "body": "Fully managed service for managing and deploying machine learning models.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://aws.amazon.com/sagemaker/model-registry/"
+                },
+                {
+                    "title": "Azure Machine Learning Model Registry",
+                    "body": "Cloud-based service for managing the lifecycle of machine learning models.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://azure.microsoft.com/en-us/services/machine-learning/model-registry/"
+                },
+                {
+                    "title": "Google Cloud AI Platform Model Registry",
+                    "body": "Managed service for deploying, managing, and governing ML models in a central repository.",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://cloud.google.com/ai-platform/prediction/docs/model-registry"
+                },
+                {
+                    "title": "Verta",
+                    "body": "MLOps platform with model registry and versioning",
+                    "tag": [
+                        "Commercial"
+                    ],
+                    "url": "https://www.verta.ai"
+                },
+                {
+                    "title": "Pachyderm",
+                    "body": "Data versioning and model registry platform for MLOps",
+                    "tag": [
+                        "Commercial",
+                        "Open Source"
+                    ],
+                    "url": "https://www.pachyderm.com"
+                },
+                {
+                    "title": "Weights & Biases",
+                    "body": "ML platform for tracking experiments and managing models with advanced registry features",
+                    "tag": [
+                        "Commercial"
+                    ],
+                    "url": "https://wandb.ai"
+                },
+                {
+                    "title": "Neptune.ai",
+                    "body": "Metadata store for MLOps with model registry and versioning capabilities",
+                    "tag": [
+                        "Commercial"
+                    ],
+                    "url": "https://neptune.ai"
+                },
+                {
+                    "title": "ClearML",
+                    "body": "Open source platform for MLOps with experiment tracking and model registry",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://clear.ml"
                 }
             ]
         },
@@ -1152,6 +1242,124 @@
                         "Freemium"
                     ],
                     "url": "https://nlpcloud.io/"
+                }
+            ]
+        },
+        {
+            "title": "🤖 AI Agents Platform",
+            "category": "ai-agent-platform",
+            "content": [
+                {
+                    "title": "Beam AI",
+                    "body": "Platform for agentic process automation",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://beam.ai/"
+                },
+                {
+                    "title": "Langbase",
+                    "body": "Langbase helps developers ship composable AI agent pipes with hyper-personalized memory (RAG).",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://langbase.com/"
+                },
+                {
+                    "title": "Composio",
+                    "body": "A platform for integrating AI agents with over 150 external tools to enhance functionality.",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://composio.dev/"
+                },
+                {
+                    "title": "Wordware",
+                    "body": "AI toolkit that helps cross-functional teams build reliable high quality agents",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://www.wordware.ai/"
+                },
+                {
+                    "title": "BaseAI.dev",
+                    "body": "The easiest open-source way to build Serverless autonomous AI agents with memory and tools.",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://baseai.dev/"
+                },
+                {
+                    "title": "Epsilla",
+                    "body": "All-in-one platform to create vertical AI agents with private data and knowledge.",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://epsilla.com/"
+                },
+                {
+                    "title": "NexusGPT",
+                    "body": "A no-code platform for building and integrating custom AI agents to automate workflows.",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://gpt.nexus/"
+                },
+                {
+                    "title": "Millis AI",
+                    "body": "Voice AI platform for creating low-latency, natural-sounding voice agents",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://www.millis.ai/"
+                },
+                {
+                    "title": "SwarmZero.ai",
+                    "body": "AppStore for AI Agents",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://swarmzero.ai/"
+                },
+                {
+                    "title": "SwarmZero.ai",
+                    "body": "AppStore for AI Agents",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://swarmzero.ai/"
+                },
+                {
+                    "title": "AutoGen",
+                    "body": "Open-source framework that enables the creation of complex AI workflows through multi-agent conversations",
+                    "tag": [
+                        "Freemium", "Open Source"
+                    ],
+                    "url": "https://microsoft.github.io/autogen/"
+                },
+                {
+                    "title": "CrewAI",
+                    "body": "Platform for Multi AI Agents System for complex task execution.",
+                    "tag": [
+                        "Freemium", "Open Source"
+                    ],
+                    "url": "https://www.crewai.com/"
+                },
+                {
+                    "title": "LangGraph",
+                    "body": "A framework for building conversational AI agents.",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://www.langchain.com/langgraph"
+                },
+                {
+                    "title": "LangChain",
+                    "body": "A framework for building and deploying applications powered by large language models (LLMs).",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://www.langchain.com/"
                 }
             ]
         }
