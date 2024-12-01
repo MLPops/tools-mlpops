@@ -465,11 +465,51 @@
                         "Open Source"
                     ],
                     "url": "https://delta.io/"
+                },
+                {
+                    "title": "Unstructured",
+                    "body": "Data preprocessing for AI",
+                    "tag": [
+                        "Paid"
+                    ],
+                    "url": "https://unstructured.io"
+                },
+                {
+                    "title": "Milvus",
+                    "body": "Vector database",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://milvus.io"
+                },
+                {
+                    "title": "Pinecone",
+                    "body": "Vector database",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://www.pinecone.io"
+                },
+                {
+                    "title": "LanceDB",
+                    "body": "Vector database",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://lancedb.github.io/lancedb/"
+                },
+                {
+                    "title": "Qdrant",
+                    "body": "Vector database",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/qdrant/qdrant"
                 }
             ]
         },
         {
-            "title": "🏷️ Data Labeling",
+            "title": "🏷️ Labeling",
             "category": "datalabeling",
             "content": [
                 {
@@ -646,7 +686,7 @@
             ]
         },
         {
-            "title": "📈 Experiment Management",
+            "title": "📈 Experiments",
             "category": "experiment-management",
             "content": [
                 {
@@ -718,7 +758,7 @@
             ]
         },
         {
-            "title": "📉 Drift/Adverserial Monitoring",
+            "title": "📉 Observability",
             "category": "datadrift",
             "content": [
                 {
@@ -778,6 +818,62 @@
                         "Open Source"
                     ],
                     "url": "https://github.com/SeldonIO/alibi-detect"
+                },
+                {
+                    "title": "Helicone",
+                    "body": "Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://github.com/helicone/helicone"
+                },
+                {
+                    "title": "Portkey",
+                    "body": "LLM gateway with monitoring and analytics",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://portkey.ai"
+                },
+                {
+                    "title": "Deepchecks",
+                    "body": "ML model validation and monitoring",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://www.deepchecks.com"
+                },
+                {
+                    "title": "Whylogs",
+                    "body": "Open-source data and ML monitoring",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://whylabs.ai"
+                },
+                {
+                    "title": "Arize",
+                    "body": "AI observability and LLM evaluation platform designed to help AI engineers and developers surface model issues quicker",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://arize.com/platform-overview/"
+                },
+                {
+                    "title": "Langfuse",
+                    "body": "Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://github.com/langfuse/langfuse"
+                },
+                {
+                    "title": "weave",
+                    "body": "Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://github.com/wandb/weave"
                 }
             ]
         },
@@ -1360,6 +1456,130 @@
                         "Freemium"
                     ],
                     "url": "https://www.langchain.com/"
+                },
+                {
+                    "title": "Letta",
+                    "body": "Letta (formerly MemGPT) is a framework for creating LLM services with memory",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/letta-ai/letta/"
+                }
+            ]
+        },
+        {
+            "title": "🔎 RAG",
+            "category": "rag",
+            "content": [
+                {
+                    "title": "SWIRL",
+                    "body": "Open-source AI infrastructure for RAG applications",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/swirlai/swirl-search"
+                },
+                {
+                    "title": "Cognita",
+                    "body": "Framework for modular, production-ready RAG systems",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/swirlai/swirl-search"
+                },
+                {
+                    "title": "LLM-Ware",
+                    "body": "Framework for enterprise-ready RAG pipelines",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/llmware-ai/llmware"
+                },
+                {
+                    "title": "RAG Flow",
+                    "body": "Engine for RAG using deep document understanding",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/infiniflow/ragflow"
+                },
+                {
+                    "title": "Graph RAG",
+                    "body": "Graph-based RAG system using knowledge graphs",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/microsoft/graphrag"
+                },
+                {
+                    "title": "Haystack",
+                    "body": "AI orchestration framework to build customizable, production-ready LLM applications",
+                    "tag": [
+                        "Open Source", "Freemium"
+                    ],
+                    "url": "https://haystack.deepset.ai"
+                },
+                {
+                    "title": "Storm",
+                    "body": "LLM-powered knowledge curation system",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/stanford-oval/storm"
+                },
+                {
+                    "title": "autoflow",
+                    "body": "RAG based and conversational knowledge base tool built with TiDB",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/pingcap/autoflow"
+                }
+            ]
+        },
+        {
+            "title": "🔤 Promt",
+            "category": "promt",
+            "content": [
+                {
+                    "title": "PromptLayer",
+                    "body": "Prompt versioning and management",
+                    "tag": [
+                        "Freemium","Open Source"
+                    ],
+                    "url": "https://www.promptlayer.com"
+                },
+                {
+                    "title": "Promptfoo",
+                    "body": "Prompt testing and evaluation",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://github.com/promptfoo/promptfoo"
+                },
+                {
+                    "title": "Hamilton",
+                    "body": "Prompt orchestration",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/dagworks-inc/hamilton"
+                },
+                {
+                    "title": "GPTCache",
+                    "body": "LLM response caching",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/zilliztech/GPTCache"
+                },
+                {
+                    "title": "Humanloop",
+                    "body": "Prompt management platform",
+                    "tag": [
+                        "Freemium"
+                    ],
+                    "url": "https://humanloop.com"
                 }
             ]
         }
