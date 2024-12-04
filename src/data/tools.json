@@ -1538,8 +1538,8 @@
             ]
         },
         {
-            "title": "🔤 Promt",
-            "category": "promt",
+            "title": "🔤 Prompt",
+            "category": "Prompt",
             "content": [
                 {
                     "title": "PromptLayer",
