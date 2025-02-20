@@ -1496,14 +1496,6 @@
                     "url": "https://github.com/llmware-ai/llmware"
                 },
                 {
-                    "title": "RAG Flow",
-                    "body": "Engine for RAG using deep document understanding",
-                    "tag": [
-                        "Open Source"
-                    ],
-                    "url": "https://github.com/infiniflow/ragflow"
-                },
-                {
                     "title": "Graph RAG",
                     "body": "Graph-based RAG system using knowledge graphs",
                     "tag": [
@@ -1534,7 +1526,24 @@
                         "Open Source"
                     ],
                     "url": "https://github.com/pingcap/autoflow"
+                },
+                {
+                    "title": "RAGFlow",
+                    "body": "RAGFlow is an open-source RAG engine based on deep document understanding.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/infiniflow/ragflow"
+                },
+                {
+                    "title": "🥤 RAGLite",
+                    "body": "🥤 RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite.",
+                    "tag": [
+                        "Open Source"
+                    ],
+                    "url": "https://github.com/superlinear-ai/raglite"
                 }
+
             ]
         },
         {
